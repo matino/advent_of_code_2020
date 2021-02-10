@@ -1,5 +1,4 @@
 defmodule Day1 do
-
   @spec part1(binary()) :: integer()
   def part1(data) do
     to_integers(data)
